@@ -4,16 +4,14 @@
   <img width="715" alt="StandbyScreenshot" src="https://github.com/user-attachments/assets/7a228f83-c670-4304-83d1-e9d568d10771">
 </p>
 
-## Theme
-#### Light and Dark
-
 ## Gameplay Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UyHxRvOxiUQ/0.jpg)](https://www.youtube.com/watch?v=UyHxRvOxiUQ)
 
 ## Description
+#### THEME: Light and Dark
 Due to the poor hospitality and treatment of my team members during a recent trip on AirCanada, we decided to create a game that exemplifies the frustration of dealing with modern-day airlines.
 
-"Standby" is a puzzle game created in Unreal Engine 5 Blueprints.
+"Standby" is a puzzle-horror game created in Unreal Engine 5 Blueprints.
 
 In "Standby", you aim to escape an aircraft fuselage without getting consumed by the monster lurking in the darkness.
 Grab batteries scattered throughout the map to power spotlights that scare away any nearby creatures.
