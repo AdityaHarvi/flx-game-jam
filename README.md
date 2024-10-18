@@ -1,5 +1,9 @@
 # Game Jam Submission, Jun 3-6th 2024, 2nd Place Winner
 
+<p align="center">
+  <img width="715" alt="StandbyScreenshot" src="https://github.com/user-attachments/assets/7a228f83-c670-4304-83d1-e9d568d10771">
+</p>
+
 ## Theme
 #### Light and Dark
 
