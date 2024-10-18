@@ -9,6 +9,8 @@
 ## Description
 Due to the poor hospitality and treatment of my team members during a recent trip on AirCanada, we decided to create a game that exemplifies the frustration of dealing with modern-day airlines.
 
+"Standby" is a puzzle game created in Unreal Engine 5 Blueprints.
+
 In "Standby", you aim to escape an aircraft fuselage without getting consumed by the monster lurking in the darkness.
 Grab batteries scattered throughout the map to power spotlights that scare away any nearby creatures.
 
