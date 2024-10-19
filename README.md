@@ -5,7 +5,7 @@
 </p>
 
 ## Gameplay Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UyHxRvOxiUQ/0.jpg)](https://www.youtube.com/watch?v=UyHxRvOxiUQ)
+[![Standby Gameplay Video](https://img.youtube.com/vi/UyHxRvOxiUQ/0.jpg)](https://www.youtube.com/watch?v=UyHxRvOxiUQ)
 
 ## Description
 #### THEME: Light and Dark
